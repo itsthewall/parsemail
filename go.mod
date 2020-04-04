@@ -1,3 +1,3 @@
-module github.com/itsthewall/parsemail
+module github.com/itsthewall/Parsemail
 
 go 1.11
